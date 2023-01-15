@@ -30,7 +30,7 @@ URL: https://api.wandb.ai/report/liangchen40/018tb72h
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/wandb.JPG)
 
 ### Unit Testing
-We implemented Unit Testing both for the data loader, and the model. It's included in the training pipeline.
+We implemented Unit Testing for the data loader, Twseet Daaset class and the Depression Classifier model. The code is included in the training pipeline.
 
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/unit_testing.png)
 
