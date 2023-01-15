@@ -32,7 +32,7 @@ URL: https://api.wandb.ai/report/liangchen40/018tb72h
 ### Unit Testing
 We implemented Unit Testing both for the data loader, and the model. It's included in the training pipeline.
 
-![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/tree/main/Image/unit_testing.png)
+![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/unit_testing.png)
 
 ## Deployment on HuggingFace
 
