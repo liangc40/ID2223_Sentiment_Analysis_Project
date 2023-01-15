@@ -30,4 +30,4 @@ https://huggingface.co/spaces/qisan/Depressed_sentimental_analysis
 
 ### Sentiment Analysis Based on Single Text
 
-![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/Image/single_text.png)
+![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/single_text.png)
