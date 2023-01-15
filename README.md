@@ -22,7 +22,8 @@ A feature pipeline that insert features and labels into our serverless model. Sp
 ### sentiment-training-pipeline.py
 It reads training data with a Feature View from Hopsworks, packages the data into data loaders, creates a sentiment classifier based on the BERT model. and trains our model. The final weights of the model are saved on HuggingFace model hub. URL: https://huggingface.co/liangc40/sentiment_analysis
 
-### sentiment analysis batch inference pipeline
+### sentiment analysis inference pipeline
+Model trained by training pipeline is deployed on Huggingface helping users to analyse sentiment of any sentances or Tweets. 
 
 ## MLOPs implementations
 ### Trining Monitering and Looging with Weights and Biases
