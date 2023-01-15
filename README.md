@@ -1,1 +1,1 @@
-# ID2223_Sentimental_Analysis_Project
+# ID2223 Sentiment Analysis Project
