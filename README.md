@@ -24,6 +24,15 @@ It reads training data with a Feature View from Hopsworks, packages the data int
 
 ### sentiment analysis batch inference pipeline
 
+## MLOPs implementations
+### Trining Monitering and Looging with Weights and Biases
+URL: https://api.wandb.ai/report/liangchen40/018tb72h
+![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/wandb.JPG)
+
+### Unit Testing
+We implemented Unit Testing both for the data loader, and the model. It's included in the training pipeline.
+
+
 ## Deployment on HuggingFace
 
 https://huggingface.co/spaces/qisan/Depressed_sentimental_analysis
@@ -31,3 +40,8 @@ https://huggingface.co/spaces/qisan/Depressed_sentimental_analysis
 ### Sentiment Analysis Based on Single Text
 
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/single_text.png)
+
+### Sentiment Analysis on Tweets with the Keyword
+
+![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/multiple_text.png)
+
