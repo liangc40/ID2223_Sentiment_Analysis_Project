@@ -9,7 +9,7 @@ Nowadays, with social media flourishing, more and more people publish their thou
  
 
 ## Dataset
-
+We use historical data set to train our classifier and the NEW data can be fetched on demand with UI on HuggingFace.
 
 ## Model
 
@@ -40,9 +40,13 @@ https://huggingface.co/spaces/qisan/Depressed_sentimental_analysis
 
 ### Sentiment Analysis Based on Single Text
 
+Users can type in the sentence to analyse the sentiment. 
+
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/single_text.png)
 
 ### Sentiment Analysis on Tweets with the Keyword
+
+Users can input any keyworks to search the relevant Tweets. The first 10 tweets with sentiments will be shown.
 
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/multiple_text.png)
 
