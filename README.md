@@ -46,7 +46,7 @@ Users can type in the sentence to analyse the sentiment.
 
 ### Sentiment Analysis on Tweets with the Keyword
 
-Users can input any keyworks to search the relevant Tweets. The first 10 tweets with sentiments will be shown.
+Users can input any keywords to search the relevant Tweets. The first 10 tweets with sentiments will be shown.
 
 ![Alt text](https://github.com/liangc40/ID2223_Sentiment_Analysis_Project/blob/main/Image/multiple_text.png)
 
