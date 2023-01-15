@@ -20,7 +20,7 @@ BERT is the most popular transformer for a wide range of language-based machine 
 A feature pipeline that insert features and labels into our serverless model. Specifically, we created our feature group with a specified name, version, primary key, etc. Then insert the sentiment analysis dataflow into our feature group.
 
 ### sentiment-training-pipeline.py
-It reads training data with a Feature View from Hopsworks, packages the data into data loaders, creates a sentiment classifier based on the BERT model. and trains our model. The final weights of the model is saved on HuggingFace model hub. URL: https://huggingface.co/liangc40/sentiment_analysis
+It reads training data with a Feature View from Hopsworks, packages the data into data loaders, creates a sentiment classifier based on the BERT model. and trains our model. The final weights of the model are saved on HuggingFace model hub. URL: https://huggingface.co/liangc40/sentiment_analysis
 
 ### sentiment analysis batch inference pipeline
 
